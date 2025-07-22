@@ -1,0 +1,27 @@
+body {
+  font-size: 20px;
+}
+h1,
+h2 {
+  color: gray;
+}
+
+.content {
+  background-color: rgba(247, 240, 237, 0.9);
+  width: 60%;
+  margin: 50px auto;
+  padding: 40px;
+  border-radius: 12px;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+}
+
+.content-title {
+  text-align: center;
+  color: #5a3e36;
+}
+
+.content-text {
+  line-height: 1.6;
+  font-size: 1.1em;
+}
+
