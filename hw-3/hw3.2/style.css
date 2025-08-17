@@ -57,3 +57,8 @@
   margin-bottom: 15px;
   font-size: 24px;
 }
+
+.scroll-btn{
+  list-style: none;
+  color: white;
+}
